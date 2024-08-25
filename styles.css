@@ -36,8 +36,8 @@ input[type="submit"]{
     align-content: center;
 }
 footer{
-    text-align: left;
-    font-size: small;
+    text-align: right;
+    font-size: medium;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 100;
+    font-weight: 200;
 }
