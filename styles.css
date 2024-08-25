@@ -26,17 +26,7 @@ font-size: large;
 color: rgb(245, 250, 248);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-input[type="text"],
-input[type="email"],
-input[type="password"],
-input[type="date"]input[type="number"]
-input[type="tel"]{
-    width: 100%;
-    padding: 8px;
-    margin-bottom: 10px;
-    border: 1px solid;
-    border-radius: 4px;
-}
+
 input[type="submit"]{
     background-color: rgb(245, 3, 3);
     color:blanchedalmond;
