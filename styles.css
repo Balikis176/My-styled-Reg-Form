@@ -1,0 +1,48 @@
+form{
+    width: 50%;
+    margin:0 auto;
+    padding: 50px;
+    border-radius: 5px;
+    background-color: aqua;
+}
+header h1{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(52, 121, 6);
+    font-size: large;
+    color: rgb(251, 253, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+h2 {
+padding: 10px;
+text-align: center;
+background-color: rgb(8, 134, 65);
+font-size: large;
+color: rgb(245, 250, 248);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"]input[type="number"]
+input[type="tel"]{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+input[type="submit"]{
+    background-color: rgb(245, 3, 3);
+    color:blanchedalmond;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    align-content: center;
+}
